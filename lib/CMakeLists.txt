@@ -1,3 +1,4 @@
+# Minimum version, that supports all features used
 cmake_minimum_required(VERSION 3.26)
 project(MyLibrary VERSION 1.0.0)
 
